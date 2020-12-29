@@ -4,7 +4,7 @@ A Siege map for Tribes 2
 
 ## Installation
 
-1. Download the [latest release](https://github.com/kfox/non-sequitur/releases/latest/download/Shafted.vl2)
+1. Download the [latest release](https://github.com/kfox/shafted/releases/latest/download/Shafted.vl2)
 2. Move it to your server's `Tribes2\GameData\base` directory
 3. Start the server
 
